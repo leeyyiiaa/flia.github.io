@@ -1,5 +1,4 @@
 # leeyyiiaa.github.io
 _*Fiona Lia B. Tranquilino*_
 
-`15 y/o, she/her, cap, ISTP`
- 
+![Jake](https://www.gluwee.com/wp-content/uploads/2021/08/Jake-Enhypen_cover.jpg) 
