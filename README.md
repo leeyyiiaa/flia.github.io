@@ -5,7 +5,7 @@
 
 **𝘓𝘐𝘈 !**
 
-<img src= "https://media.tenor.com/zSk_Kr2A0dEAAAAC/kuromi.gif" width= "250" height= "200"> 
+<img src= "![image](https://i.pinimg.com/564x/76/9b/35/769b357f1a75fe8f32e5969f0213b549.jpg)" width= "1000" height= "100"> 
 
 >𝙎𝙝𝙚/𝙝𝙚𝙧  
 >
