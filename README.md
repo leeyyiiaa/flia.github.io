@@ -23,21 +23,29 @@
 
 > Here are my recommended artists to listen to<img src= "https://media.tenor.com/EA4wWWb88TIAAAAi/love-in-love.gif" width= "50px" height= "50px">
 >
-> [The weekend](#TheWeekend)
+> The weekend
 >
-> [SZA](#SZA)
+> SZA
 >
-> [New Jeans](#NewJeans)
+> New Jeans
 >
-> [ENHYPEN](#Enhypen)
+> ENHYPEN
 >
-> [LE SSERAFIM](#LeSserafim)
+> LE SSERAFIM
 >
-> [Chase Atlantic](#ChaseAtlantic)
+> Chase Atlantic
 >
-> [Tory Lanez](#ToryLanez)
+> Tory Lanez
+>
+> Travis Scott
+
+
+# Here are my Spotify playlists
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5KQHUUTFOZiT3JABcNiksV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <img src= "https://media.discordapp.net/attachments/932235016795193404/1057901199023669299/Untitled4_20221224220010.png?width=1440&height=58" width= "1000">
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0wYj0MATW63NS9YRlLgJ8Y?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 - 📫 How to reach me **fltranquilino@gbox.adnu.edu.ph**
