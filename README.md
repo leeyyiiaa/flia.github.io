@@ -25,15 +25,36 @@
 >
 > [The weekend](#TheWeekend)
 >
-> SZA
+> [SZA](#SZA)
 >
-> New Jeans
+> [New Jeans](#NewJeans)
 >
-> ENHYPEN
+> [ENHYPEN](#Enhypen)
 >
-> LE SSERAFIM
+> [LE SSERAFIM](#LeSserafim)
+>
+> [Chase Atlantic](#ChaseAtlantic)
+>
+> [Tory Lanez](#ToryLanez)
+<img src= "https://media.discordapp.net/attachments/932235016795193404/1057901199023669299/Untitled4_20221224220010.png?width=1440&height=58" width= "1000">
 
 
 
 
-### TheWeekend
+
+
+
+###TheWeekend
+These are the list of songs I love from him;
+
+➢<iframe width="560" height="315" src="https://www.youtube.com/embed/RpyN9pFXUCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- 📫 How to reach me **fltranquilino@gbox.adnu.edu.ph**
+
+<h3 align="left">BMF!🤍<p align="left">
+
+  <a href="https://fb.com/lia tranquilino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lia tranquilino" height="30" width="40" /></a>
+<a href="https://instagram.com/leeyyiiaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leeyyiiaa_" height="30" width="40" /></a>
+<a href="https://discord.gg/løv#7777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="løv#7777" height="30" width="40" /></a>  
+</p>
+
