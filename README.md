@@ -43,9 +43,12 @@
 # Here are my Spotify playlists
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5KQHUUTFOZiT3JABcNiksV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<img src= "https://media.discordapp.net/attachments/932235016795193404/1057901199023669299/Untitled4_20221224220010.png?width=1440&height=58" width= "1000">
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0wYj0MATW63NS9YRlLgJ8Y?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+<img src= "https://media.discordapp.net/attachments/932235016795193404/1057901199023669299/Untitled4_20221224220010.png?width=1440&height=58" width= "1000">
+
 
 
 - 📫 How to reach me **fltranquilino@gbox.adnu.edu.ph**
